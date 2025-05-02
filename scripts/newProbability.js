@@ -5,7 +5,7 @@ require('dotenv').config();
 
 // Dynamic Odds Calculation with Laplace & Δ-Based H2H
 // Load historical match data
-const DATA_PATH = './fight_data.json';
+const DATA_PATH = './fightData.json';
 const rawData = JSON.parse(fs.readFileSync(DATA_PATH, 'utf-8'));
 
 // Smoothing parameter

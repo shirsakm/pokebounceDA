@@ -7,7 +7,7 @@ const client = new Client();
 
 const TOKEN = process.env.DISCORD_TOKEN || 'TOKEN';
 const CHANNEL_ID = '1366415702378156164';
-const DATA_FILE = 'fight_data.json';
+const DATA_FILE = 'fightData.json';
 
 let fightData = [];
 
@@ -31,7 +31,7 @@ client.on('ready', async () => {
 
     // Fetch all messages
     let allMessages = [];
-    let lastId = '1367590399346086020';
+    let lastId = '';
 
     while (true) {
         const options = { limit: 100 };

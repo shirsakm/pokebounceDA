@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load your data file (ensure it's in the same directory)
-with open('fight_data.json', 'r') as f:
+with open('fightData.json', 'r') as f:
     data = json.load(f)
 
 # 1) Identify all Pokémon

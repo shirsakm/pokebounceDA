@@ -7482,5 +7482,2811 @@
       "'Nidoking'"
     ],
     "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Staraptor'",
+      "'Wigglytuff'",
+      "'Nidoking'",
+      "'Mamoswine'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Scizor'",
+      "'Mamoswine'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Staraptor'",
+      "'Scizor'",
+      "'Mamoswine'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Mamoswine'",
+      "'Infernape'",
+      "'Pikachu'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Kingdra'",
+      "'Nidoking'",
+      "'Pikachu'",
+      "'Decidueye'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Decidueye'",
+      "'Umbreon'",
+      "'Nidoking'",
+      "'Wigglytuff'",
+      "'Scizor'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Mamoswine'",
+      "'Pikachu'",
+      "'Staraptor'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Scizor'",
+      "'Kingdra'",
+      "'Decidueye'",
+      "'Wigglytuff'",
+      "'Pikachu'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Scizor'",
+      "'Pikachu'",
+      "'Wigglytuff'",
+      "'Decidueye'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Kingdra'",
+      "'Infernape'",
+      "'Scizor'",
+      "'Pikachu'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Mamoswine'",
+      "'Staraptor'",
+      "'Infernape'",
+      "'Nidoking'",
+      "'Umbreon'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Infernape'",
+      "'Wigglytuff'",
+      "'Nidoking'",
+      "'Kingdra'",
+      "'Umbreon'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Staraptor'",
+      "'Infernape'",
+      "'Mamoswine'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Umbreon'",
+      "'Infernape'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Pikachu'",
+      "'Infernape'",
+      "'Scizor'"
+    ],
+    "winner": "Nobody"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Umbreon'",
+      "'Pikachu'",
+      "'Wigglytuff'",
+      "'Nidoking'",
+      "'Kingdra'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Nidoking'",
+      "'Decidueye'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Wigglytuff'",
+      "'Infernape'",
+      "'Scizor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Decidueye'",
+      "'Wigglytuff'",
+      "'Scizor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Umbreon'",
+      "'Scizor'",
+      "'Decidueye'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Kingdra'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Wigglytuff'",
+      "'Infernape'",
+      "'Nidoking'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Umbreon'",
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Nobody"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Kingdra'",
+      "'Umbreon'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Wigglytuff'",
+      "'Decidueye'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Pikachu'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Kingdra'",
+      "'Scizor'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Wigglytuff'",
+      "'Staraptor'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Umbreon'",
+      "'Scizor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Staraptor'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Scizor'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Infernape'",
+      "'Kingdra'",
+      "'Umbreon'",
+      "'Scizor'",
+      "'Mamoswine'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Wigglytuff'",
+      "'Nidoking'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Pikachu'",
+      "'Kingdra'",
+      "'Staraptor'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Umbreon'",
+      "'Mamoswine'",
+      "'Nidoking'",
+      "'Staraptor'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Decidueye'",
+      "'Mamoswine'",
+      "'Infernape'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Kingdra'",
+      "'Wigglytuff'",
+      "'Nidoking'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Umbreon'",
+      "'Nidoking'",
+      "'Infernape'",
+      "'Scizor'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Decidueye'",
+      "'Staraptor'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Wigglytuff'",
+      "'Umbreon'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Nidoking'",
+      "'Infernape'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Wigglytuff'",
+      "'Staraptor'",
+      "'Decidueye'",
+      "'Umbreon'",
+      "'Nidoking'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Umbreon'",
+      "'Decidueye'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Mamoswine'",
+      "'Scizor'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Kingdra'",
+      "'Pikachu'",
+      "'Infernape'",
+      "'Staraptor'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Umbreon'",
+      "'Nidoking'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Nidoking'",
+      "'Mamoswine'",
+      "'Kingdra'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Pikachu'",
+      "'Staraptor'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Scizor'",
+      "'Kingdra'",
+      "'Umbreon'",
+      "'Mamoswine'",
+      "'Decidueye'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Nidoking'",
+      "'Pikachu'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Kingdra'",
+      "'Decidueye'",
+      "'Infernape'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Pikachu'",
+      "'Umbreon'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Pikachu'",
+      "'Wigglytuff'",
+      "'Decidueye'",
+      "'Umbreon'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Infernape'",
+      "'Staraptor'",
+      "'Pikachu'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Decidueye'",
+      "'Scizor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Decidueye'",
+      "'Mamoswine'",
+      "'Scizor'",
+      "'Wigglytuff'",
+      "'Pikachu'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Decidueye'",
+      "'Umbreon'",
+      "'Pikachu'",
+      "'Mamoswine'",
+      "'Kingdra'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Staraptor'",
+      "'Kingdra'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Scizor'",
+      "'Mamoswine'",
+      "'Decidueye'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Wigglytuff'",
+      "'Pikachu'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Infernape'",
+      "'Mamoswine'",
+      "'Decidueye'",
+      "'Wigglytuff'",
+      "'Scizor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Kingdra'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Mamoswine'",
+      "'Wigglytuff'",
+      "'Staraptor'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Wigglytuff'",
+      "'Kingdra'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Scizor'",
+      "'Kingdra'",
+      "'Staraptor'",
+      "'Infernape'",
+      "'Pikachu'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Wigglytuff'",
+      "'Nidoking'",
+      "'Infernape'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Mamoswine'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Infernape'",
+      "'Kingdra'",
+      "'Pikachu'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Decidueye'",
+      "'Kingdra'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Pikachu'",
+      "'Umbreon'",
+      "'Scizor'",
+      "'Nidoking'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Infernape'",
+      "'Mamoswine'",
+      "'Scizor'",
+      "'Kingdra'",
+      "'Umbreon'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Kingdra'",
+      "'Wigglytuff'",
+      "'Mamoswine'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Infernape'",
+      "'Staraptor'",
+      "'Kingdra'",
+      "'Wigglytuff'",
+      "'Pikachu'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Pikachu'",
+      "'Wigglytuff'",
+      "'Decidueye'",
+      "'Nidoking'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Pikachu'",
+      "'Decidueye'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Wigglytuff'",
+      "'Kingdra'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Pikachu'",
+      "'Kingdra'",
+      "'Umbreon'",
+      "'Nidoking'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Staraptor'",
+      "'Decidueye'",
+      "'Wigglytuff'",
+      "'Umbreon'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Kingdra'",
+      "'Nidoking'",
+      "'Mamoswine'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Kingdra'",
+      "'Mamoswine'",
+      "'Infernape'",
+      "'Pikachu'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Umbreon'",
+      "'Wigglytuff'",
+      "'Decidueye'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Wigglytuff'",
+      "'Decidueye'",
+      "'Mamoswine'",
+      "'Kingdra'",
+      "'Pikachu'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Decidueye'",
+      "'Kingdra'",
+      "'Umbreon'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Pikachu'",
+      "'Umbreon'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Wigglytuff'",
+      "'Pikachu'",
+      "'Kingdra'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Scizor'",
+      "'Kingdra'",
+      "'Wigglytuff'",
+      "'Nidoking'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Pikachu'",
+      "'Mamoswine'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Nidoking'",
+      "'Infernape'",
+      "'Decidueye'",
+      "'Scizor'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Scizor'",
+      "'Mamoswine'",
+      "'Staraptor'",
+      "'Decidueye'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Infernape'",
+      "'Kingdra'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Kingdra'",
+      "'Infernape'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Infernape'",
+      "'Mamoswine'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Kingdra'",
+      "'Infernape'",
+      "'Umbreon'",
+      "'Decidueye'",
+      "'Mamoswine'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Infernape'",
+      "'Staraptor'",
+      "'Umbreon'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Pikachu'",
+      "'Scizor'",
+      "'Mamoswine'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Wigglytuff'",
+      "'Scizor'",
+      "'Mamoswine'",
+      "'Pikachu'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Decidueye'",
+      "'Mamoswine'",
+      "'Kingdra'",
+      "'Umbreon'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Scizor'",
+      "'Infernape'",
+      "'Mamoswine'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Infernape'",
+      "'Nidoking'",
+      "'Kingdra'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Staraptor'",
+      "'Wigglytuff'",
+      "'Kingdra'",
+      "'Umbreon'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Wigglytuff'",
+      "'Infernape'",
+      "'Pikachu'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Decidueye'",
+      "'Wigglytuff'",
+      "'Pikachu'",
+      "'Kingdra'",
+      "'Mamoswine'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Wigglytuff'",
+      "'Umbreon'",
+      "'Staraptor'",
+      "'Scizor'",
+      "'Mamoswine'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Decidueye'",
+      "'Infernape'",
+      "'Kingdra'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Mamoswine'",
+      "'Pikachu'",
+      "'Umbreon'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Wigglytuff'",
+      "'Umbreon'",
+      "'Infernape'",
+      "'Pikachu'",
+      "'Kingdra'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Kingdra'",
+      "'Scizor'",
+      "'Staraptor'",
+      "'Pikachu'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Scizor'",
+      "'Nidoking'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Umbreon'",
+      "'Staraptor'",
+      "'Wigglytuff'",
+      "'Scizor'",
+      "'Pikachu'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Pikachu'",
+      "'Kingdra'",
+      "'Infernape'",
+      "'Staraptor'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Staraptor'",
+      "'Wigglytuff'",
+      "'Umbreon'",
+      "'Decidueye'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Umbreon'",
+      "'Pikachu'",
+      "'Staraptor'",
+      "'Scizor'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Infernape'",
+      "'Mamoswine'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Staraptor'",
+      "'Umbreon'",
+      "'Kingdra'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Mamoswine'",
+      "'Kingdra'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Scizor'",
+      "'Mamoswine'",
+      "'Staraptor'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Mamoswine'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Mamoswine'",
+      "'Kingdra'",
+      "'Nidoking'",
+      "'Scizor'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Pikachu'",
+      "'Kingdra'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Scizor'",
+      "'Infernape'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Umbreon'",
+      "'Kingdra'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Wigglytuff'",
+      "'Mamoswine'",
+      "'Staraptor'",
+      "'Decidueye'",
+      "'Umbreon'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Pikachu'",
+      "'Infernape'",
+      "'Decidueye'",
+      "'Kingdra'",
+      "'Scizor'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Infernape'",
+      "'Decidueye'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Scizor'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Pikachu'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Pikachu'",
+      "'Decidueye'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Kingdra'",
+      "'Staraptor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Mamoswine'",
+      "'Infernape'",
+      "'Umbreon'",
+      "'Staraptor'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Mamoswine'",
+      "'Decidueye'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Staraptor'",
+      "'Kingdra'",
+      "'Nidoking'",
+      "'Scizor'",
+      "'Pikachu'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Scizor'",
+      "'Decidueye'",
+      "'Mamoswine'",
+      "'Infernape'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Staraptor'",
+      "'Scizor'",
+      "'Infernape'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Scizor'",
+      "'Kingdra'",
+      "'Staraptor'",
+      "'Pikachu'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Infernape'",
+      "'Pikachu'",
+      "'Staraptor'",
+      "'Umbreon'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Scizor'",
+      "'Infernape'",
+      "'Umbreon'",
+      "'Nidoking'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Wigglytuff'",
+      "'Pikachu'",
+      "'Nidoking'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Kingdra'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Nidoking'",
+      "'Infernape'",
+      "'Staraptor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Infernape'",
+      "'Scizor'",
+      "'Kingdra'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Scizor'",
+      "'Kingdra'",
+      "'Umbreon'",
+      "'Infernape'",
+      "'Mamoswine'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Decidueye'",
+      "'Nidoking'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Infernape'",
+      "'Nidoking'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Wigglytuff'",
+      "'Pikachu'",
+      "'Kingdra'",
+      "'Staraptor'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Nidoking'",
+      "'Infernape'",
+      "'Staraptor'",
+      "'Mamoswine'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Infernape'",
+      "'Decidueye'",
+      "'Scizor'",
+      "'Umbreon'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Wigglytuff'",
+      "'Umbreon'",
+      "'Nidoking'",
+      "'Pikachu'"
+    ],
+    "winner": "Nobody"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Infernape'",
+      "'Pikachu'",
+      "'Umbreon'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Pikachu'",
+      "'Nidoking'",
+      "'Mamoswine'",
+      "'Umbreon'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Umbreon'",
+      "'Staraptor'",
+      "'Infernape'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Scizor'",
+      "'Umbreon'",
+      "'Wigglytuff'",
+      "'Infernape'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Staraptor'",
+      "'Kingdra'",
+      "'Scizor'",
+      "'Nidoking'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Mamoswine'",
+      "'Kingdra'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Pikachu'",
+      "'Infernape'",
+      "'Staraptor'",
+      "'Scizor'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Umbreon'",
+      "'Scizor'",
+      "'Wigglytuff'",
+      "'Pikachu'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Infernape'",
+      "'Nidoking'",
+      "'Kingdra'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Staraptor'",
+      "'Scizor'",
+      "'Mamoswine'",
+      "'Kingdra'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Pikachu'",
+      "'Decidueye'",
+      "'Kingdra'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Wigglytuff'",
+      "'Pikachu'",
+      "'Staraptor'",
+      "'Kingdra'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Wigglytuff'",
+      "'Umbreon'",
+      "'Nidoking'",
+      "'Infernape'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Decidueye'",
+      "'Kingdra'",
+      "'Nidoking'",
+      "'Mamoswine'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Scizor'",
+      "'Infernape'",
+      "'Kingdra'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Staraptor'",
+      "'Decidueye'",
+      "'Scizor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Infernape'",
+      "'Kingdra'",
+      "'Wigglytuff'",
+      "'Scizor'",
+      "'Mamoswine'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Infernape'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Scizor'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Staraptor'",
+      "'Kingdra'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Umbreon'",
+      "'Kingdra'"
+    ],
+    "winner": "Nobody"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Nidoking'",
+      "'Pikachu'",
+      "'Kingdra'",
+      "'Mamoswine'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Kingdra'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Mamoswine'",
+      "'Decidueye'",
+      "'Umbreon'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Infernape'",
+      "'Decidueye'",
+      "'Wigglytuff'",
+      "'Staraptor'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Umbreon'",
+      "'Infernape'",
+      "'Pikachu'",
+      "'Staraptor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Pikachu'",
+      "'Kingdra'",
+      "'Decidueye'",
+      "'Infernape'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Umbreon'",
+      "'Wigglytuff'",
+      "'Scizor'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Infernape'",
+      "'Umbreon'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Nidoking'",
+      "'Staraptor'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Infernape'",
+      "'Mamoswine'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Scizor'",
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Infernape'",
+      "'Umbreon'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Pikachu'",
+      "'Mamoswine'",
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Kingdra'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Kingdra'",
+      "'Staraptor'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Mamoswine'",
+      "'Staraptor'",
+      "'Pikachu'",
+      "'Kingdra'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Mamoswine'",
+      "'Scizor'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Wigglytuff'",
+      "'Umbreon'",
+      "'Scizor'",
+      "'Mamoswine'",
+      "'Staraptor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Staraptor'",
+      "'Decidueye'",
+      "'Scizor'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Nidoking'",
+      "'Kingdra'",
+      "'Staraptor'",
+      "'Umbreon'",
+      "'Scizor'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Pikachu'",
+      "'Staraptor'",
+      "'Mamoswine'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Mamoswine'",
+      "'Pikachu'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Kingdra'",
+      "'Infernape'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Scizor'",
+      "'Decidueye'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Mamoswine'",
+      "'Staraptor'",
+      "'Pikachu'",
+      "'Infernape'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Infernape'",
+      "'Umbreon'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Kingdra'",
+      "'Scizor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Mamoswine'",
+      "'Decidueye'",
+      "'Nidoking'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Wigglytuff'",
+      "'Mamoswine'",
+      "'Scizor'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Kingdra'",
+      "'Decidueye'",
+      "'Infernape'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Infernape'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Nidoking'",
+      "'Scizor'",
+      "'Mamoswine'",
+      "'Wigglytuff'",
+      "'Pikachu'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Kingdra'",
+      "'Infernape'",
+      "'Mamoswine'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Umbreon'",
+      "'Pikachu'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Pikachu'",
+      "'Decidueye'",
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Umbreon'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Infernape'",
+      "'Kingdra'",
+      "'Umbreon'",
+      "'Pikachu'",
+      "'Decidueye'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Staraptor'",
+      "'Pikachu'",
+      "'Umbreon'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Decidueye'",
+      "'Kingdra'",
+      "'Infernape'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Nidoking'",
+      "'Decidueye'",
+      "'Umbreon'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Staraptor'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Umbreon'",
+      "'Kingdra'",
+      "'Infernape'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Scizor'",
+      "'Nidoking'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Scizor'",
+      "'Infernape'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Nidoking'",
+      "'Mamoswine'",
+      "'Staraptor'",
+      "'Umbreon'",
+      "'Decidueye'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Scizor'",
+      "'Umbreon'",
+      "'Decidueye'",
+      "'Pikachu'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Scizor'",
+      "'Staraptor'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Kingdra'",
+      "'Nidoking'",
+      "'Pikachu'",
+      "'Mamoswine'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Infernape'",
+      "'Kingdra'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Wigglytuff'",
+      "'Mamoswine'",
+      "'Pikachu'",
+      "'Staraptor'",
+      "'Infernape'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Infernape'",
+      "'Scizor'",
+      "'Pikachu'",
+      "'Nidoking'",
+      "'Staraptor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Mamoswine'",
+      "'Kingdra'",
+      "'Infernape'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Kingdra'",
+      "'Infernape'",
+      "'Mamoswine'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Infernape'",
+      "'Umbreon'",
+      "'Mamoswine'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Decidueye'",
+      "'Umbreon'",
+      "'Staraptor'",
+      "'Mamoswine'",
+      "'Scizor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Umbreon'",
+      "'Staraptor'",
+      "'Kingdra'",
+      "'Nidoking'",
+      "'Pikachu'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Decidueye'",
+      "'Kingdra'",
+      "'Pikachu'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Pikachu'",
+      "'Wigglytuff'",
+      "'Scizor'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Umbreon'",
+      "'Wigglytuff'",
+      "'Mamoswine'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Umbreon'",
+      "'Infernape'",
+      "'Scizor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Decidueye'",
+      "'Umbreon'",
+      "'Wigglytuff'",
+      "'Nidoking'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Decidueye'",
+      "'Infernape'",
+      "'Scizor'",
+      "'Staraptor'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Infernape'",
+      "'Umbreon'",
+      "'Mamoswine'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Scizor'",
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Pikachu'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Wigglytuff'",
+      "'Staraptor'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Wigglytuff'",
+      "'Scizor'",
+      "'Kingdra'",
+      "'Infernape'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Infernape'",
+      "'Decidueye'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Mamoswine'",
+      "'Wigglytuff'",
+      "'Pikachu'",
+      "'Decidueye'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Umbreon'",
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Umbreon'",
+      "'Pikachu'",
+      "'Kingdra'",
+      "'Infernape'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Umbreon'",
+      "'Nidoking'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Umbreon'",
+      "'Kingdra'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Mamoswine'",
+      "'Nidoking'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Nidoking'",
+      "'Umbreon'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Staraptor'",
+      "'Infernape'",
+      "'Pikachu'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Scizor'",
+      "'Umbreon'",
+      "'Pikachu'",
+      "'Mamoswine'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Staraptor'",
+      "'Mamoswine'",
+      "'Pikachu'",
+      "'Umbreon'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Pikachu'",
+      "'Infernape'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Infernape'",
+      "'Umbreon'",
+      "'Mamoswine'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Kingdra'",
+      "'Mamoswine'",
+      "'Infernape'",
+      "'Scizor'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Wigglytuff'",
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Mamoswine'"
+    ],
+    "winner": "Nidoking"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Decidueye'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Scizor'",
+      "'Umbreon'",
+      "'Pikachu'",
+      "'Nidoking'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Kingdra'",
+      "'Decidueye'",
+      "'Staraptor'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Kingdra'",
+      "'Scizor'",
+      "'Staraptor'",
+      "'Wigglytuff'",
+      "'Nidoking'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Kingdra'",
+      "'Infernape'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Wigglytuff'",
+      "'Scizor'",
+      "'Infernape'",
+      "'Decidueye'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Pikachu'",
+      "'Staraptor'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Umbreon'",
+      "'Staraptor'",
+      "'Decidueye'",
+      "'Pikachu'",
+      "'Mamoswine'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Kingdra'",
+      "'Infernape'",
+      "'Pikachu'",
+      "'Mamoswine'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Umbreon'",
+      "'Mamoswine'",
+      "'Staraptor'",
+      "'Pikachu'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Decidueye'",
+      "'Kingdra'",
+      "'Infernape'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Kingdra'",
+      "'Umbreon'",
+      "'Scizor'",
+      "'Infernape'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Wigglytuff'",
+      "'Umbreon'",
+      "'Pikachu'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Kingdra'",
+      "'Pikachu'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Decidueye'",
+      "'Mamoswine'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Mamoswine'",
+      "'Decidueye'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Nidoking'",
+      "'Decidueye'",
+      "'Wigglytuff'",
+      "'Pikachu'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Mamoswine'",
+      "'Scizor'",
+      "'Infernape'",
+      "'Umbreon'",
+      "'Kingdra'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Decidueye'",
+      "'Scizor'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Kingdra'",
+      "'Pikachu'",
+      "'Umbreon'",
+      "'Scizor'",
+      "'Nidoking'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Kingdra'",
+      "'Wigglytuff'",
+      "'Mamoswine'",
+      "'Decidueye'",
+      "'Pikachu'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Umbreon'",
+      "'Infernape'",
+      "'Pikachu'",
+      "'Wigglytuff'",
+      "'Scizor'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Scizor'",
+      "'Pikachu'",
+      "'Kingdra'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Scizor'",
+      "'Infernape'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Mamoswine'",
+      "'Infernape'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Scizor'",
+      "'Umbreon'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Decidueye'",
+      "'Infernape'",
+      "'Scizor'",
+      "'Nidoking'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Pikachu'",
+      "'Kingdra'",
+      "'Nidoking'",
+      "'Mamoswine'",
+      "'Umbreon'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Infernape'",
+      "'Mamoswine'",
+      "'Kingdra'",
+      "'Scizor'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Mamoswine'",
+      "'Kingdra'",
+      "'Decidueye'",
+      "'Staraptor'",
+      "'Wigglytuff'",
+      "'Pikachu'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Wigglytuff'",
+      "'Mamoswine'",
+      "'Umbreon'",
+      "'Pikachu'",
+      "'Kingdra'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Umbreon'",
+      "'Staraptor'",
+      "'Mamoswine'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Pikachu'",
+      "'Scizor'",
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Decidueye'"
+    ],
+    "winner": "Nobody"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Decidueye'",
+      "'Umbreon'",
+      "'Kingdra'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Umbreon'",
+      "'Staraptor'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Decidueye'",
+      "'Mamoswine'"
+    ],
+    "winner": "Kingdra"
+  },
+  {
+    "fighters": [
+      "'Pikachu'",
+      "'Nidoking'",
+      "'Scizor'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Wigglytuff'",
+      "'Scizor'",
+      "'Staraptor'",
+      "'Decidueye'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Umbreon'",
+      "'Staraptor'",
+      "'Scizor'",
+      "'Infernape'",
+      "'Wigglytuff'"
+    ],
+    "winner": "Scizor"
+  },
+  {
+    "fighters": [
+      "'Decidueye'",
+      "'Umbreon'",
+      "'Kingdra'",
+      "'Wigglytuff'",
+      "'Pikachu'",
+      "'Mamoswine'"
+    ],
+    "winner": "Decidueye"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Infernape'",
+      "'Decidueye'"
+    ],
+    "winner": "Infernape"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Nidoking'",
+      "'Infernape'",
+      "'Mamoswine'",
+      "'Wigglytuff'",
+      "'Decidueye'"
+    ],
+    "winner": "Mamoswine"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Scizor'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Infernape'",
+      "'Wigglytuff'",
+      "'Umbreon'",
+      "'Mamoswine'",
+      "'Pikachu'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Umbreon'",
+      "'Mamoswine'",
+      "'Decidueye'",
+      "'Nidoking'",
+      "'Infernape'"
+    ],
+    "winner": "Wigglytuff"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Pikachu'",
+      "'Infernape'",
+      "'Decidueye'",
+      "'Mamoswine'"
+    ],
+    "winner": "Staraptor"
+  },
+  {
+    "fighters": [
+      "'Kingdra'",
+      "'Scizor'",
+      "'Mamoswine'",
+      "'Nidoking'",
+      "'Staraptor'",
+      "'Pikachu'"
+    ],
+    "winner": "Umbreon"
+  },
+  {
+    "fighters": [
+      "'Scizor'",
+      "'Pikachu'",
+      "'Umbreon'"
+    ],
+    "winner": "Pikachu"
+  },
+  {
+    "fighters": [
+      "'Staraptor'",
+      "'Pikachu'",
+      "'Nidoking'",
+      "'Infernape'",
+      "'Kingdra'"
+    ],
+    "winner": "Pikachu"
   }
 ]
